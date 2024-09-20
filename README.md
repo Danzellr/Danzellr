@@ -63,10 +63,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://omegaup.com/profile/danzellru" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="danzellru" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tu_abuelo" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tu_abuelo" height="30" width="40" /></a>
+  <!-- OmegaUp -->
+  <a href="https://omegaup.com/profile/danzellru" target="blank">
+    <img align="center" src="https://omegaup.com/media/favicon.png" alt="OmegaUp" height="30" width="40" />
+  </a>
+  
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/tu_abuelo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tu_abuelo" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
