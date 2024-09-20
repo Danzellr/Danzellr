@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danzell Paolo Arellano PADILLA</h1>
 <h3 align="center">A passionate competitive programmer from Mexico</h3>
 
+---
+
+<h2 align="center">💡 My Motto</h2>
+<p align="center"><i>"SI PUEDES IMAGINARLO PUEDES PROGRAMARLO"</i></p>
+
+---
+
 - 🌱 I’m currently learning **C#, TypeScript.**
 
 - 💬 Ask me about **C++, C, Python.**
